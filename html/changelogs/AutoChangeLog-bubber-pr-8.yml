@@ -1,0 +1,4 @@
+author: "vaugusto273"
+delete-after: True
+changes:
+  - image: "Changed the title screen image"
