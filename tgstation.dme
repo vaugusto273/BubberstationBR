@@ -9705,5 +9705,7 @@
 #include "modular_zubbers\modules\primitive_cooking\code\cauldron.dm"
 #include "modular_zubbers\modules\wood_walls\code\mineral_walls.dm"
 #include "modular_zubbers\modules\wood_walls\code\new_floors.dm"
+#include "modular_teatro\modules\sec-gadgets\modules\bodycameras\bodycam.dm"
+#include "modular_teatro\modules\sec-gadgets\modules\bodycameras\integration.dm"
 // END_INCLUDE
 
