@@ -182,3 +182,31 @@
   - rscadd: Adds cavity implantation surgery for synthetic/augmented/robotic characters
   xPokee:
   - rscadd: Ported the male/female diesel boots from F13
+2025-05-16:
+  Arturlang:
+  - bugfix: abductors no longer look janky because their pref's applied. Sorry.
+  sippykot:
+  - rscadd: new high-heeled jackboots
+  - rscdel: old high-heeled jackboots
+  - image: new sprites for the high-heeled jackboots by Aeri/unionheart, digi sprites
+      by sippykot
+2025-05-17:
+  Arturlang:
+  - bugfix: Last resort is 0 cost again
+2025-05-18:
+  LT3:
+  - bugfix: Fixed NebulaStation disposals dumping into the sauna
+  Nuk5513:
+  - map: edited persistence landcrawler
+  Vanilla1040:
+  - rscdel: Sends the wanna be drifting contractor on vacation
+2025-05-19:
+  Ziiro:
+  - bugfix: Dullahan (Taurs) now have correct had positions when resting in all directions.
+  - bugfix: Fixed a small bug with combining contraband lists between baseline and
+      modular cigarette vending machines
+2025-05-20:
+  TealSeer:
+  - bugfix: fixed being unable to squeeze mops into buckets
+  - qol: added an option to the loadout menu search that lets you also search in tooltip
+      text
